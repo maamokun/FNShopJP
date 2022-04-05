@@ -26,3 +26,7 @@ FNShopJPはフォートナイトのアイテムショップの画像を生成す
 - Boku2-Bold フォント [Fontopo](https://fontopo.com/?p=98)
 - レア度オーバーレイ [MattTheo_](https://twitter.com/MattTheo_)
 - 一部コード提供 [Im2rnado](https://github.com/Im2rnado/Fort-Shop)
+
+## 支援
+- 寄付する [Ko-fi.com](https://ko-fi.com/maamokun)
+- Epic Games クリエイターサポート 「MAAMOKUN」
