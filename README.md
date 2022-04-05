@@ -14,7 +14,7 @@ FNShopJPはフォートナイトのアイテムショップの画像を生成す
 - `language`: ショップの言語を入力する。(初期設定は日本語です。) (対応言語: en, ar, de, es, es-419, fr, it, ja, ko, pl, pt-BR, ru, tr, zh-CN)
 - `watermark`: クリサポ等任意の文字を入れてください。
 
-3. `node .js` で生成開始する
+3. `node test.js` で生成開始する
 4. FNshop.png が生成されます！
 
 ## お問い合わせ
