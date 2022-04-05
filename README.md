@@ -23,5 +23,6 @@ FNShopJPはフォートナイトのアイテムショップの画像を生成す
 ## 提供
 - アイテムショップデータ [FortniteAPI.io](https://fortniteapi.io/)
 - Burbank フォント [Adobe](https://fonts.adobe.com/fonts/burbank)
+- Boku2-Bold フォント [Fontopo](https://fontopo.com/?p=98)
 - レア度オーバーレイ [MattTheo_](https://twitter.com/MattTheo_)
 - 一部コード提供 [Im2rnado](https://github.com/Im2rnado/Fort-Shop)
